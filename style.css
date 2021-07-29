@@ -15,7 +15,7 @@ p {
   color: dimgray;
 }
 
-.name-highlight {
+.orange-highlight {
   color: orange;
 }
 
@@ -53,4 +53,8 @@ section {
   background-image: url(images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
+}
+
+.experience-header {
+  text-align: center;
 }
